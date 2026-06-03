@@ -76,8 +76,6 @@ A identidade visual segue os conceitos de marcas como **Fear of God**, **Supreme
 2. **Abra diretamente** no seu navegador (não é necessário servidor).
 3. Navegue pelos produtos, adicione ao carrinho, ajuste quantidades e finalize a compra simulada.
 
-> Para editar, utilize qualquer editor de código (VS Code, Sublime, etc.). Todas as imagens são externas (Unsplash), portanto é necessário internet para carregá-las.
-
 ---
 
 ## 📦 Possíveis Melhorias Futuras
