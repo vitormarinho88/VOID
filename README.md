@@ -70,20 +70,6 @@ A identidade visual segue os conceitos de marcas como **Fear of God**, **Supreme
 
 ---
 
-## 🧠 Estrutura do Código
-index.html
-├── <head> – meta tags, fonts, CSS global
-├── <body>
-│ ├── Header (logo, navegação, ícone do carrinho, menu hambúrguer)
-│ ├── Hero section
-│ ├── Seção de produtos (grid gerada dinamicamente via JS)
-│ ├── Footer
-│ ├── Sidebar do carrinho (overlay + painel lateral)
-│ └── Toast de notificação
-└── <script> – toda a lógica do carrinho, renderização, eventos
-
----
-
 ## 🚀 Como Executar
 
 1. **Clone ou baixe** este arquivo HTML.
