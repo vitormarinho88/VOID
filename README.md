@@ -23,7 +23,7 @@ A identidade visual segue os conceitos de marcas como **Fear of God**, **Supreme
 
 ## ✨ Funcionalidades
 
-- ✅ Catálogo de produtos com 8 itens da coleção **DROP 001** (t-shirts oversized, moletom, calça cargo, bomber jacket, acessórios)
+- ✅ Catálogo de produtos com 10 itens da coleção **DROP 001** (t-shirts oversized, moletom, calça cargo, bomber jacket, acessórios)
 - ✅ Adicionar/remover produtos do carrinho
 - ✅ Ajustar quantidade de cada item dentro do carrinho
 - ✅ Cálculo automático do total
