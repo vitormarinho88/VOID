@@ -72,10 +72,10 @@ const products = [
         
         ];
 
-        // ===== ESTADO DO CARRINHO =====
+        //  ESTADO DO CARRINHO
         let cart = JSON.parse(localStorage.getItem('void-cart')) || [];
 
-        // ===== ELEMENTOS DO DOM =====
+        //  ELEMENTOS DO DOM 
         const productsContainer = document.getElementById('products-container');
         const cartOverlay = document.getElementById('cart-overlay');
         const cartItems = document.getElementById('cart-items');
@@ -89,8 +89,7 @@ const products = [
         const closeMenu = document.querySelector('.close-menu');
         const checkoutButton = document.getElementById('checkout-button');
 
-        // ===== FUNÇÕES =====
-        // Renderizar produtos
+        // FUNÇÕES de Renderizar produtos
         function renderProducts() {
             productsContainer.innerHTML = products.map(product => `
                 <div class="product-card" data-id="${product.id}">
@@ -240,7 +239,7 @@ const products = [
             });
         }
 
-        // ===== EVENT LISTENERS =====
+        //  EVENT LISTENERS 
         cartIcon.addEventListener('click', toggleCart);
         closeCart.addEventListener('click', toggleCart);
         menuToggle.addEventListener('click', toggleMenu);
@@ -254,7 +253,7 @@ const products = [
             }
         });
 
-        // ===== INICIALIZAÇÃO =====
+        //  INICIALIZAÇÃO 
         renderProducts();
         updateCart();
         smoothScroll();
