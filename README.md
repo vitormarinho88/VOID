@@ -23,7 +23,7 @@ A identidade visual segue os conceitos de marcas como **Fear of God**, **Supreme
 
 ## ✨ Funcionalidades
 
-- ✅ Catálogo de produtos com 8 itens da coleção **DROP 001** (t-shirts oversized, moletom, calça cargo, bomber jacket, acessórios)
+- ✅ Catálogo de produtos com 10 itens da coleção **DROP 001** (t-shirts oversized, moletom, calça cargo, bomber jacket, acessórios)
 - ✅ Adicionar/remover produtos do carrinho
 - ✅ Ajustar quantidade de cada item dentro do carrinho
 - ✅ Cálculo automático do total
@@ -70,27 +70,11 @@ A identidade visual segue os conceitos de marcas como **Fear of God**, **Supreme
 
 ---
 
-## 🧠 Estrutura do Código
-index.html
-├── <head> – meta tags, fonts, CSS global
-├── <body>
-│ ├── Header (logo, navegação, ícone do carrinho, menu hambúrguer)
-│ ├── Hero section
-│ ├── Seção de produtos (grid gerada dinamicamente via JS)
-│ ├── Footer
-│ ├── Sidebar do carrinho (overlay + painel lateral)
-│ └── Toast de notificação
-└── <script> – toda a lógica do carrinho, renderização, eventos
-
----
-
 ## 🚀 Como Executar
 
 1. **Clone ou baixe** este arquivo HTML.
 2. **Abra diretamente** no seu navegador (não é necessário servidor).
 3. Navegue pelos produtos, adicione ao carrinho, ajuste quantidades e finalize a compra simulada.
-
-> Para editar, utilize qualquer editor de código (VS Code, Sublime, etc.). Todas as imagens são externas (Unsplash), portanto é necessário internet para carregá-las.
 
 ---
 
